@@ -50,3 +50,17 @@ cd treekeeper
 cd backend && cargo run  # or `uvicorn main.py` for Python
 # Frontend
 cd frontend && npm run dev
+
+## 🎯 Roadmap Ideas
+
+🧩 Invite other family members securely
+🌐 Multi-language support
+🧠 AI: Relationship suggestions via LLM
+📷 Face recognition for old photos
+🙌 Contributing
+
+Contributions, issues, and ideas welcome!
+
+📄 License
+
+MIT
