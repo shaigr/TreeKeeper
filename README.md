@@ -41,16 +41,6 @@ Most genealogy tools are:
 
 ---
 
-## 🚀 Getting Started (Concept)
-
-```bash
-git clone https://github.com/shaigr/treekeeper
-cd treekeeper
-# Backend
-cd backend && cargo run  # or `uvicorn main.py` for Python
-# Frontend
-cd frontend && npm run dev
-
 ## 🎯 Roadmap Ideas
 
 🧩 Invite other family members securely
@@ -61,6 +51,20 @@ cd frontend && npm run dev
 
 Contributions, issues, and ideas welcome!
 
-📄 License
+---
+
+## 📄 License
 
 MIT
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/shaigr/treekeeper
+cd treekeeper
+# Backend
+cd backend && cargo run  # or `uvicorn main.py` for Python
+# Frontend
+cd frontend && npm run dev
