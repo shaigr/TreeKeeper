@@ -42,7 +42,7 @@ Most genealogy tools are:
 ---
 
 ## 🎯 Roadmap Ideas
-
+Consider using https://github.com/mnapoli/family-tree-maker/blob/main/LICENSE as the base for the project, missing features in this project are gedcom support (import/export) while maintaining the json format support and adding image url support and display in the graph and png output for each contact.
 🧩 Invite other family members securely
 🌐 Multi-language support
 🧠 AI: Relationship suggestions via LLM
